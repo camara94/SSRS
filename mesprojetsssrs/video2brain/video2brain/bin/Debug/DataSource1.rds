@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource1">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=DESKTOP-MO6K1QN;Initial Catalog=AdventureWorks2014</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+    <Prompt>Spécifier un nom d'utilisateur et un mot de passe pour la source de données DataSource1</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>9540e9f3-7e37-4ae9-b4e6-527463a6c1f9</DataSourceID>
+</RptDataSource>
