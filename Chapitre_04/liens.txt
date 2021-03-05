@@ -1,0 +1,4 @@
+http://st048-win7/ReportServer?/video2brain/Liste+des+Personnes
+http://st048-win7/ReportServer?/video2brain/Liste+des+Personnes&PremiereLettre=M
+http://st048-win7/ReportServer?/video2brain/Liste+des+Personnes&PremiereLettre=M&rc:Toolbar=false
+http://st048-win7/ReportServer?/video2brain/Liste+des+Personnes&PremiereLettre=M&rs:Format=PDF
